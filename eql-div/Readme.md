@@ -13,4 +13,5 @@
 - src/equation_from_model.py: contains functions to evaluate model + generate the learned equation from the model's weights and biases
 - src/equations_for_paper.py: script to save generate and evaluate equations for Kl from all combinations of input features
 
-## To replicate results: run $python src/equations_for_paper.py 
+## To replicate results: 
+- run $python src/equations_for_paper.py 
