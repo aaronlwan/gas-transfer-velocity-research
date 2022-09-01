@@ -6,7 +6,7 @@
 
 ### Changed files:
 - src/mlfg_file.py: added tracking of the best version of model so we can use the best model when creating equations
-- 
+
 ### Files created:
 - datasets/: stores observed.csv and pickle file from save_data.py
 - save_data.py: creates all input features and saves data as pickle file
