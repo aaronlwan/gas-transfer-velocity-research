@@ -1,4 +1,4 @@
-# Application of EQL-Div to creating equations for gas transfer velocity rate
+# Application of EQL-DIV to creating equations for gas transfer velocity rate
 
 - Majority of model code cloned from https://github.com/martius-lab/EQL
 
