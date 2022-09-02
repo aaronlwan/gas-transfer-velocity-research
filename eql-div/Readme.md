@@ -1,6 +1,6 @@
 # Application of EQL-DIV to creating equations for gas transfer velocity rate
 
-- Majority of model code cloned from https://github.com/martius-lab/EQL
+- Majority of model code cloned from https://github.com/martius-lab/EQL/tree/master/EQL-DIV-ICML-Python3
 
 ## Changes:
 
